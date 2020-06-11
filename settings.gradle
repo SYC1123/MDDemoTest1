@@ -1,0 +1,2 @@
+rootProject.name='MDDemoTest1'
+include ':app'
